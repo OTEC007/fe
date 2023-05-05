@@ -1,0 +1,8 @@
+{
+    "notebook.cell.edit" : "Shift",
+    "notebook.cell.changeToMarkdown" : "backspace",
+    "notebook.cell.copyUp" : "capslock",
+    "notebook.cell.copyDown" : "Shift + Alt",
+    "notebook.cell.quitEdit" : "Insert"
+
+}
