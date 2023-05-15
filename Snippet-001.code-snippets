@@ -1,0 +1,16 @@
+{
+    "Create a class": {
+    "scope": "java, javascript",
+    "prefix": "class",
+    "body": [
+      "public class ${1:ClassName} {",
+      "  public ${1:ClassName}(${2:params}) {",
+      "    ${3:// Create constructor function here}",
+      "  }",
+      " ",
+      "  ${4:// Add class methods here}",
+      "}",
+    ],
+    "description": "Create a new class"
+    }
+  }
